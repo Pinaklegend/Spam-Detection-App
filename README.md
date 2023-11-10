@@ -1,1 +1,3 @@
 # Spam-Detection-App
+The repository contains the code for a spam detection app developed as the final project for the Neural Networks course at Learnerspace. The code demonstrates algorithms for effectively identifying and filtering out spam, showcasing a high of proficiency in applying neural networks to practical applications.
+I enhanced spam detection by fine-tuning a DistilBERT pre-trained model with a dataset of 5,700 messages. I successfully implemented a user-friendly GUI using Gradio, validated its effective performance with diverse inputs, and improved overall message filtering capabilities.
